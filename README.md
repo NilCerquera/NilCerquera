@@ -37,22 +37,14 @@ Apasionado de la tecnología. Iniciando un cambio laboral hacia el analisis de c
 
 * :iphone: +57 3162201250
 ---
-## 💻 Tecnologies
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white)]()
-[![Android-Studio](https://img.shields.io/badge/Android-Studio-FF6C37?style=for-the-badge&logo=Android-Studio&logoColor=white)]()
----
- ### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
-<img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
+## 💻 Lenguajes y herramientas:
 
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,unreal,angular,nodejs,js,html,css)](https://skillicons.dev)
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NilCerquera&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilCerquera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
