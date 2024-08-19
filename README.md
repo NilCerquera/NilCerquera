@@ -23,11 +23,9 @@ Apasionado de la tecnología. Iniciando un cambio laboral hacia el analisis de c
    
 * 🧑‍💻 Soy amante de los animales, apasionado por la tecnología y entusiasta con los retos. No soy desarrollador web aunque se me facilita leer código de programación, elevar propuestas de diseño y analisís de información y, sobre todo, me apasiona encontrar alternativas de mejora para que todo funcione correctamente.
 
-* 🖌️ Analista del sector automotriz y financiero.
+* 🖌️ Analizo situaciones complejas para tomar mejores decisiones y aporten un gran valor en la industria.
 
-* 🌱 Estoy estudiando y practicando 👨🏻‍💻 todo para formarme como un analista de calidad de software que me permitan aportar eficazmente con equipos de desarrollo para asegurar la calidad de los productos o servicios, para que los usuario tengan en sus manos un producto con los más altos estándares de calidad y usabilidad.
-
-* 👨🏻‍🎓Finalice la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso por aplicar mis nuevos conocimientos que se complementan con mi experiencia laboral. 🕺🏻
+* 🌱 Soy graduado de QA Engineer👨🏻‍💻 y ha permitido aportar eficazmente con equipos de desarrollo para asegurar la calidad de los productos o servicios, para que los usuario tengan en sus manos un producto con los más altos estándares de calidad y usabilidad.
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar y tecnificar los procesos para reducir el tiempo y usarlo de una mejor manera
 
